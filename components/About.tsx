@@ -32,7 +32,7 @@ const About = (props: Props) => {
         // transition={{
         //     duration : .5
         // }}
-        className="-mb-20 md:mb-0 flex-shrink mt-[20px] h-[120px] w-[110px] md:mt-5 md:w-[200px] md:h-[250px] rounded-full object-cover" src="https://scontent.fbom65-1.fna.fbcdn.net/v/t39.30808-6/310097619_622873046058801_7589804280837915824_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=3Ab6AHptaPcAX_Gnay3&_nc_ht=scontent.fbom65-1.fna&oh=00_AT-xDp6TSGTUt8D8Jv_vI-SVe2f8V9AdkiOZlSJL7OBtoA&oe=635B5D21" alt="" />
+        className="-mb-20 md:mb-0 flex-shrink mt-[20px] h-[95px] w-[95px] md:mt-5 md:w-[200px] md:h-[250px] rounded-full object-cover" src="https://scontent.fbom65-1.fna.fbcdn.net/v/t39.30808-6/310097619_622873046058801_7589804280837915824_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=3Ab6AHptaPcAX_Gnay3&_nc_ht=scontent.fbom65-1.fna&oh=00_AT-xDp6TSGTUt8D8Jv_vI-SVe2f8V9AdkiOZlSJL7OBtoA&oe=635B5D21" alt="" />
 
         <div>
         <h1 className='mx-3 text-2xl mt-1'>Here is litte Background</h1>
