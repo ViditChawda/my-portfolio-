@@ -36,8 +36,8 @@ const About = (props: Props) => {
 
         <div>
         <h1 className='mx-3 text-2xl mt-1'>Here is litte Background</h1>
-        <h4 className='mx-1 md:mx-5 md: mt-3 text-sm md:text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad repellendus id aperiam doloribus, perspiciatis numquam iusto, pariatur consectetur modi nemo velit maiores explicabo quas sunt illum quos. Autem, officia quia.
-        Libero, neque odit doloremque quia, sint enim accusamus non unde Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloribus deserunt veniam, dolorum ex fugit aliquid ducimus aspernatur iure amet, beatae ullam harum ea inventore animi </h4>
+        <h4 className='mx-1 md:mx-5 md: mt-3 text-sm md:text-lg'>I'm Vidit 💯. I am an engineering student at G H raisoni college of engineering CSE 3rd year. I have been coding since 4 years.. i have good command over CPP, JAVA , HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js apart from my technical skills i think i am good at mentoring, I am the lead of Google developer students club of my college and here i have conducted many events to make students aware about the google technologies, not just google technologies, i have also conducted a DSA bootcamp and apart from this if i would talk about myself then i would say i am an artist, i have a creative mind, and that is why i tend to overthing sometimes, my strenght is if i have started some work i will complete it with perfection or else i will leave it and if i would have to talk about my weakness then i am very impaitent, emotional fool.. but looking at the brighter side that all these strengts and weaknesses have worked well for me😊😊..
+        </h4>
         </div>
         
     </div>
