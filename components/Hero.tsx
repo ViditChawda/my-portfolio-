@@ -20,7 +20,7 @@ const Hero = (props: Props) => {
         <div className='h-screen flex flex-col items-center justify-center text-center overflow-hidden'>
             <BackgroundCricles/>
             <h1 className='text-sm uppercase text-gray-500 pb-2 tracking-[14px]'>SOFTWARE ENGINEER</h1>
-            <h1 className="text-5xl font-semibold scroll-px-10">{text}</h1>
+            <h1 className="md:text-5xl font-semibold scroll-px-10 text-3xl">{text}</h1>
             <div className='mt-3'>
                 <Link href="/About" ><button className=" cursor-pointer uppercase text-xs tracking-[3px] text-gray-300 py-3 px-3">About</button></Link>
                 <Link href="#experience"><button className=" cursor-pointer uppercase text-xs tracking-[3px] text-gray-300 py-3 px-3">Experience</button></Link>
