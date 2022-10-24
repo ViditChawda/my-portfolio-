@@ -8,7 +8,7 @@ const About = (props: Props) => {
     <div className='flex flex-col relative h-screen text-center md:text-left md:flex-row px-10 justify-evenly mx-auto max-w-7xl items-center'>
         <motion.h3 
         initial={{
-            x : -200
+            x : -100
         }}
         whileInView={{
             x : 0
@@ -20,7 +20,7 @@ const About = (props: Props) => {
 
         <motion.img 
         initial ={{
-            x : -200,
+            x : -100,
             opacity : 0,
             scale : 0
         }}
