@@ -27,7 +27,7 @@ const Hero = (props: Props) => {
                 <Link href="#skills"><button className=" text-[7px] cursor-pointer uppercase md:text-xs tracking-[3px] text-gray-300 py-3 px-3">Skills</button></Link>
                 <Link href="#projects"><button className=" text-[7px] cursor-pointer uppercase md:text-xs tracking-[3px] text-gray-300 py-3 px-3">Projects</button></Link>
             </div>
-            <div className='mt-40 text-5xl'>
+            <div className='mt-[60px] md:mt-25 text-5xl'>
                 <BsArrowBarDown/>
             </div>
         </div>
