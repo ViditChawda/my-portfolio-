@@ -2,7 +2,7 @@ import React from 'react'
 import { Cursor, useTypewriter } from "react-simple-typewriter"
 import BackgroundCricles from './BackgroundCricles';
 import Link from 'next/link'
-
+import { BsArrowBarDown } from 'react-icons/bs';
 type Props = {}
 
 const Hero = (props: Props) => {
@@ -26,6 +26,9 @@ const Hero = (props: Props) => {
                 <Link href="#experience"><button className=" text-[7px] cursor-pointer uppercase md:text-xs tracking-[3px] text-gray-300 py-3 px-3">Experience</button></Link>
                 <Link href="#skills"><button className=" text-[7px] cursor-pointer uppercase md:text-xs tracking-[3px] text-gray-300 py-3 px-3">Skills</button></Link>
                 <Link href="#projects"><button className=" text-[7px] cursor-pointer uppercase md:text-xs tracking-[3px] text-gray-300 py-3 px-3">Projects</button></Link>
+            </div>
+            <div className='mt-40 text-5xl'>
+                <BsArrowBarDown/>
             </div>
         </div>
     )
